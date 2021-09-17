@@ -49,7 +49,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="facebook"
-                  href="https://www.facebook.com/The.King.Q.A.I.S/"
+                  href="https://www.facebook.com/rihan.foudeh"
                   id="tooltip837440414"
                   target="_blank"
                 >
@@ -63,7 +63,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="linkedin"
-                  href="https://www.linkedin.com/in/qais-alshorman/"
+                  href="https://www.linkedin.com/in/rihan-foudeh-58919b216/"
                   id="tooltip829810202"
                   target="_blank"
                 >
@@ -77,7 +77,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="github"
-                  href="https://github.com/QaisAlshorman"
+                  href="https://github.com/RihanFoudeh"
                   id="tooltip495507257"
                   target="_blank"
                 >
@@ -99,7 +99,7 @@ class SimpleFooter extends React.Component {
                     href="https://www.creative-tim.com?ref=adsr-footer"
                     target="_blank"
                   >
-                   Qais Alshorman
+                   RihanFoudeh
                   </a>
                   .
                 </div>

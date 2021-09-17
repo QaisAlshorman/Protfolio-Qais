@@ -78,7 +78,7 @@ class CardsFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="facebook"
-                  href="https://www.facebook.com/Rihan.foudeh"
+                  href="https://www.facebook.com/The.King.Q.A.I.S/"
                   id="tooltip837440414"
                   target="_blank"
                 >
@@ -93,7 +93,7 @@ class CardsFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="github"
-                  href="https://github.com/RihanFoudeh"
+                  href="https://github.com/QaisAlshorman"
                   id="tooltip495507257"
                   target="_blank"
                 >
@@ -115,7 +115,7 @@ class CardsFooter extends React.Component {
                     href="https://www.creative-tim.com?ref=adsr-footer"
                     target="_blank"
                   >
-                    Rihanfoudeh
+                    Qais Alshorman
                   </a>
                   .
                 </div>
